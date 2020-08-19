@@ -6,4 +6,4 @@ All projects were developed using Python and its main data analysis libraries on
 
 ## Projects:
 
-- Projects: [Exploring Ebay Car Sales Data](https://github.com/phsaraiva/exploratory_data_analysis/blob/master/exploring_ebay_car_sales_data.ipynb)
+- Projects: [Exploring Ebay Car Sales Data](https://github.com/phsaraiva/exploratory_data_analysis/blob/master/exploring_ebay_car_sales_data.ipynb): free exploratory data analysis of a dataset of used cars from eBay Kleinanzeigen, a classifieds section of the German eBay website.
