@@ -6,6 +6,4 @@ All projects were developed using Python and its main data analysis libraries on
 
 ## Projects:
 
-- Projeto 1
-- Projeto 2
-- Project 3
+- Projects: [Exploring Ebay Car Sales Data](https://github.com/phsaraiva/exploratory_data_analysis/blob/master/exploring_ebay_car_sales_data.ipynb)
