@@ -7,5 +7,5 @@ All projects were developed using Python and its main data analysis libraries on
 ## Projects:
 
 - [Exploring Ebay Car Sales Data](https://github.com/phsaraiva/exploratory_data_analysis/blob/master/exploring_ebay_car_sales_data.ipynb): free exploratory data analysis of a dataset of used cars from eBay Kleinanzeigen, a classifieds section of the German eBay website.
-- [Visualizing Earnings Based On College Majors](https://github.com/phsaraiva/exploratory_data_analysis/blob/master/visualizing_earnings_based_on_college_majors.ipynb): free exploratory data analysis of a dataset of Metallica concerts between 1982 and 2018.
+- [Visualizing Earnings Based On College Majors](https://github.com/phsaraiva/exploratory_data_analysis/blob/master/visualizing_earnings_based_on_college_majors.ipynb): The data set is from the American Community Survey on the job outcomes of students who graduated from college between 2010 and 2012. This is the first project including data visualization with Matplotlib.
 
