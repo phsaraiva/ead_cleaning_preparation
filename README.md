@@ -1,11 +1,5 @@
 # Exploratory Data Analysis Projects
 
-In this repository you will find my Data Science projects focused on Exploratory Data Analysis. All projects are introduced with a brief description of the business context, the problem to be solved, the questions to be answered and a short description of the datasets and where it come from. I will guide you through all steps since data collection, preparation, data cleanning , data preparation and the data analysis made to find the answers and insights that we need.
+In this repository you will find my Data Science projects focused on Exploratory Data Analysis. All projects are introduced with a brief description of the business context, the dataset and the questions to be answered or drives that motivates the analisys.
 
-All projects were developed using Python and its main data analysis libraries on Jupyter Notebook. The datasets can be find in the datasets folder, with the same title as the project where it being loaded and used.
-
-## Projects:
-
-- [Exploring Ebay Car Sales Data](https://github.com/phsaraiva/exploratory_data_analysis/blob/master/exploring_ebay_car_sales_data.ipynb): free exploratory data analysis of a dataset of used cars from eBay Kleinanzeigen, a classifieds section of the German eBay website.
-- [Visualizing Earnings Based On College Majors](https://github.com/phsaraiva/exploratory_data_analysis/blob/master/visualizing_earnings_based_on_college_majors.ipynb): The data set is from the American Community Survey on the job outcomes of students who graduated from college between 2010 and 2012. This is the first project including data visualization with Matplotlib.
-
+All projects were developed using Python and its main data analysis libraries on Jupyter Notebook.
